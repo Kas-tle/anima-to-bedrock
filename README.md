@@ -15,7 +15,7 @@
 - Execute script
   - `./converter.sh`
 - Place created files in appropriate location of a Bedrock resource pack
-  - Place [`armor_stand.v1.0.entity.json`](https://raw.githubusercontent.com/Kas-tle/anima-to-bedrock/main/armor_stand.v1.0.entity.json) in the `entity` folder
+  - Place [`armor_stand.v1.0.entity.json`](https://raw.githubusercontent.com/Kas-tle/anima-to-bedrock/main/armor_stand.geo.json) in the `entity` folder
   - Add armor_stand.geo.json from the repository to `models/entity`
     - This is needed to allow for rotation of the body portion of the armor stand
   - Place all other json files in the `animations` folder
